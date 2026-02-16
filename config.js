@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Axisform Design group",
+        brand: "Refract Light Systems",
         owner: "İbrahim Kaya",
-        email: "info@axform.shop",
+        email: "info@refractedligh.shop",
         phone: "+90 544 977 25 14",
         phoneClean: "+905449772514",
         address: "Antalya, Lara, Moda Cd. No: 141",
-        copyright: "(c) 2026 Axisform Design group. All Rights Reserved."
+        copyright: "(c) 2026 Refract Light Systems. All Rights Reserved."
     };
 
     function apply() {
