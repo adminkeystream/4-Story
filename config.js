@@ -1,11 +1,11 @@
 (function() {
     const DATA = {
         brand: "Refract Light Systems",
-        owner: "İbrahim Kaya",
+        owner: "Monika Meyer",
         email: "info@refractedligh.shop",
-        phone: "+90 544 977 25 14",
-        phoneClean: "+905449772514",
-        address: "Antalya, Lara, Moda Cd. No: 141",
+        phone: "+49 174 5639354",
+        phoneClean: "+491745639354",
+        address: "Lower Saxony, Geestland, Graben Nr.45 (22) 147",
         copyright: "(c) 2026 Refract Light Systems. All Rights Reserved."
     };
 
